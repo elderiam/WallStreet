@@ -61,4 +61,5 @@ class Extractor {
       .option("hbase.spark.use.hbasecontext", false)
       .save()
   }
+
 }
